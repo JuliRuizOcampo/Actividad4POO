@@ -1,2 +1,2 @@
 # Actividad4POO
-Ejercicios 1,2 y 5
+Ejercicios 1, 2 y 5
